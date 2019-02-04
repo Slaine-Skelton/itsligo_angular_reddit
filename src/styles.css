@@ -5,7 +5,7 @@
 }
 
 form.ui.segment.form {
-  background-color: #F1F9FF;
+  background-color: rgb(108, 181, 236);
   margin-top: 2em;
 }
 
@@ -46,4 +46,3 @@ ul.ui.list li:before {
   clear: both;
   width: 100%;
 }
-
