@@ -10,12 +10,12 @@ export class Article {
     }
 
 
-    voteUp() {
+    voteUp(): boolean {
         this.votes +=1;
         return false;
     }
 
-    voteDown() {
+    voteDown(): boolean {
         this.votes -=1;
         return false;
     }
